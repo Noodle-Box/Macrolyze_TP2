@@ -10,7 +10,7 @@ Hardware Files included:
 Key Features:
 - Customizable 12 key mini keyboard
 - Bluetooth connection to host
-- Automatic light through phototransistor
+- Automatic LED brightness adjustment through phototransistor
 - Battery recharging
 
 
